@@ -2,7 +2,6 @@ title: Wallop Vintage Gathering
 description: Wallop vintage gathering website
 
 url: "https://wallopvintagegathering.github.io"
-baseurl: "/gathering"
 
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
