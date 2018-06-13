@@ -13,9 +13,9 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /gathering/index.html
+   url: /index.html
  - title: Contact
-   url: /gathering/contact
+   url: /contact
 
 social:
    email: tony@gaigerbros.co.uk
